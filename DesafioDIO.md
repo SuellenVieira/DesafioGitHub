@@ -7,21 +7,21 @@
 
 > ### Formação
 > 
-> - Graduação em Física - Bacharelado, UFSC - *Universidade Federal de Santa Catarina,
+> - **Graduação em Física - Bacharelado, UFSC** - *Universidade Federal de Santa Catarina,
 Florianópolis. Período: 2017 - 2021*
 
 > ### Premiação
 > 
-> - Medalha e Diploma de Mérito Estudantil UFSC - *Universidade Federal de Santa
+> - **Medalha e Diploma de Mérito Estudantil UFSC** - *Universidade Federal de Santa
 Catarina, Florianópolis.*
 
 > ### Experiência
 > 
-> - 2020 - 2021  Bolsista PIBIC - CNPq – *"Estudo da matéria fortemente interagente sob condições 
+> - 2020 - 2021  **Bolsista PIBIC - CNPq** – *"Estudo da matéria fortemente interagente sob condições 
 extremas" – UFSC, Florianópolis.*
 Fenomenologia das colisões de íons pesados relativísticos. Pesquisa com foco na análise de
 dados para a construção de gráficos com o terminal root no Linux.
-> - 2019 - 2020  Bolsista PIBIC - CNPq – *"Modelos de Campos para setores auto-duais" – UFSC, Florianópolis.*
+> - 2019 - 2020  **Bolsista PIBIC - CNPq** – *"Modelos de Campos para setores auto-duais" – UFSC, Florianópolis.*
 Estudo da construção matemática dos modelos de campos escalares em (1+1) dimensões
 que possuem solução do tipo sóliton. Na pesquisa realizei um relatório a respeito de teoria de
 grupos, construção matemática das teorias de campos escalares, desenvolvimento e análise
