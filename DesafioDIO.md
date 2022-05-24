@@ -38,12 +38,12 @@ dos gráficos das soluções.
 > - Windows | Linux
 
 > ### Cursos Extracurriculares
-> - 2022 SQL Server, *Digital Innovation One, Carga horária: 4 horas*
-> - 2022 Introdução ao Git e ao GitHub, *Digital Innovation One, Carga horária: 5 horas*
+> - 2022 **SQL Server**, *Digital Innovation One, Carga horária: 4 horas*
+> - 2022 **Introdução ao Git e ao GitHub**, *Digital Innovation One, Carga horária: 5 horas*
 
 
 > ### Idiomas
-> - Inglês Avançado
-> - Japonês Básico
-> - Polonês Básico
-> - Alemão Básico
+> - Inglês *Avançado*
+> - Japonês *Básico*
+> - Polonês *Básico*
+> - Alemão *Básico*
